@@ -1,0 +1,6 @@
+pandas==2.3.3
+sentencepiece==0.2.1
+safetensors==0.7.0
+sacremoses==0.1.1
+torch==2.2.2
+transformers==4.56.2
